@@ -1,0 +1,223 @@
+                                                     1st Programm
+            Input 1:-
+                                         string _name, _course;
+			int _age;
+			double _paid;
+			char _initial;
+			
+			Console.WriteLine("My name is");
+			_name=Console.ReadLine();
+			Console.WriteLine("The course is");
+			_course=Console.ReadLine();
+	        Console.WriteLine("My age is");
+			_age=Convert.ToInt32(Console.ReadLine());
+			Console.WriteLine("I paid");
+			_paid=Convert.ToDouble(Console.ReadLine());
+			Console.WriteLine("My initial is");
+			_initial=Convert.ToChar(Console.ReadLine());
+	Output
+ 
+Input 2:-
+int i=1;
+			while(i<=20)
+			{
+				
+				Console.WriteLine(i);
+				i++;
+			}
+Output
+ 
+Inpue 3:-
+string _name;
+			int _class;
+			string _course;
+			int _age;
+			string _address;
+			string _sub1;
+			string _sub2;
+			string _sub3;
+			int _marks1;
+			int _marks2;
+			int _marks;
+			
+			Console.WriteLine("Enter your name");
+			_name=(Console.ReadLine());
+			Console.WriteLine("Enter class");
+			_class=Convert.ToInt32(Console.ReadLine());
+			Console.WriteLine("Enter the course");
+			_course=(Console.ReadLine());
+			Console.WriteLine("Enter the age");
+			_age=Convert.ToInt32(Console.ReadLine());
+			Console.WriteLine("Enter the address");
+			_address=(Console.ReadLine());
+			Console.WriteLine("Enter the Subject1");
+			_sub1=(Console.ReadLine());
+			Console.WriteLine("Enter the subject2");
+			_sub2=(Console.ReadLine());
+			Console.WriteLine("Enter the subject3 ");
+			_sub3=(Console.ReadLine());
+			Console.WriteLine("Enter the marks1");
+			_marks1=Convert.ToInt32(Console.ReadLine());
+			Console.WriteLine("Enter the marks2");
+			_marks2=Convert.ToInt32(Console.ReadLine());
+			Console.WriteLine("enter the marks3");
+			_marks=Convert.ToInt32(Console.ReadLine());
+			Output
+ 
+Input 4:-
+	int i=1;
+			while(i<=100)
+			{
+				if(i%2==1)
+				
+					Console.WriteLine("It is an odd number");
+				
+				     i++;
+Output
+		
+ 
+
+Input 5:-
+int i=0;
+				{
+				for(i=0;i<5;i++)
+			Console.Write(i+1);
+				}
+Output
+ 
+
+Input 6:-
+	for(int i=1;i<5;i++)
+				{
+					for(int j=1;j<=i;j++)
+					{
+						Console.Write("*");
+					}
+					Console.WriteLine(" ");
+				}
+Output
+ 
+Input 7:-
+for(int i=1;i<11;i++)
+				{
+					Console.WriteLine(i+"*2="+(i*2));
+				}
+				
+Output
+
+ 
+Input 8:-
+	for(int i=10;i>=1;i--)
+				{
+					Console.WriteLine(i+"*3="+(i*3));
+				}
+				
+Output
+ 
+Input 9:-
+
+				for(int i=1;i<51;i++)
+				{
+					Console.WriteLine(i*2);
+					Console.WriteLine(i*3);
+				}
+Output
+ 
+Input 10:-
+for(int i=1;i<=5;i=i+1)
+				{
+					Console.WriteLine(i*10);
+					Console.WriteLine((11-i)*10);
+				}
+Output
+ 
+Input 11:-
+int i=1;
+				while(i<5)
+				{
+					Console.WriteLine(i*3);
+					i++;
+				}
+Output
+ 
+Intput 12:-
+	int i=1;
+				while(i<6)
+				{
+					Console.WriteLine(i*5);
+					i++;
+				}
+				
+Output
+ 
+Intput 13:-
+int i=0;
+				while(i<5)
+				{
+					Console.WriteLine(i+1);
+					i++;
+				}
+Output
+ 
+Intput 14:-
+	int i=1;
+				do
+				{
+					Console.WriteLine(i);
+					i++;
+				}
+				     
+					while(i<11);
+Output
+ 
+Intput 16:-
+
+				int _amount;
+			_amount=Convert.ToInt32(Console.ReadLine());
+			
+			switch (_amount) 
+			{
+				case 10000:
+					Console.WriteLine("15%");
+					break;
+				case 1000000:
+					Console.WriteLine("10%");
+					break;
+				case 1500000:
+					Console.WriteLine("8%");
+					break;
+				case 2000000:
+					Console.WriteLine("7.5%");
+					break;
+				case 2500000:
+					Console.WriteLine("7%");
+					break;
+			}
+Output
+ 
+Input  17:-
+int i=100;
+			while (i>=20)
+			{
+				Console.WriteLine(i);
+				i=i-20;
+			}
+Output
+
+ 
+Input 18:-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
